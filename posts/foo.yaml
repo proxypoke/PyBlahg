@@ -1,0 +1,11 @@
+!!python/object:__main__.Post
+title: Foo
+time: 1
+content: >
+  ##I'm a header (h2)
+  
+  We're content lines
+  that get folded so we
+  will appear as one
+  continous line in the
+  html output.
